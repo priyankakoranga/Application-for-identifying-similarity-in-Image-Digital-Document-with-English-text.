@@ -1,0 +1,1 @@
+# Application-for-identifying-similarity-in-Image-Digital-Document-with-English-text.
